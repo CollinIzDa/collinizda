@@ -1,28 +1,47 @@
-<div>
-  
-  <h1 align="center">
-    I am
-    <a href="https://collinizda.de">CollinIzDa</a>
-  </h1>
-  </div>
+
+
+<h1 align="center">
+Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://collinizda.de/">CollinIzDa</a>
+</h1>
 
 <div align="center">
-  <a href="https://github.com/collinizda">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=collinizda&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"</img>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinizda&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+
+<a href="https://collinizda.de" target="_blank"><img src="https://collinizda.de/img/besen.png" target="_blank"></a>
+<br>
+<a href="https://collinizda.de/">🌎 Click Me</a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://collinizda.de/img/github-icon.png">
-</div><br>
+<div align="left">
 
-<div align="center">
-  <a href="https://collinizda.de" target="_blank"><img src="https://collinizda.de/img/besen.png" target="_blank"></a>
+<h3 align="left">Projects:</h3>
+
+</h1>
+
+- ⚡ I’m currently working on <a href="https://collinizda.de/">My Site</a>
+
+</div>
+
+<br>
+
+<div align="center" valign="top">
+
+  <h3 align="left">Languages and Tools:</h3>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  
+  <a href="https://w3.org/html/">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  
+  <a href="https://w3.org/css">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  
+  <a href="https://python.org">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
 </div>
 
 <div align="center">
