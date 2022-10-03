@@ -34,8 +34,12 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 <img align="right" width="38%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=CollinIzDa&theme=radical&title_color=ff3068"></a>
+<br>
+
 <div align="center" valign="top">
 
+  
+  
   <h3 align="left">Languages and Tools:</h3>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
