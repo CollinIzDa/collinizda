@@ -11,6 +11,8 @@
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://collinizda.de/">CollinIzDa</a>
 </h1>
 
+<a href="https://collinizda.de/"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Hello,+im+CollinIzDa;Website+:+https://collinizda.de/" /></a>
+
 <div>
 <details>
   <summary>🧑 About Me</summary>
