@@ -13,9 +13,12 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 
 <a href="https://collinizda.de/"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Hello,+im+CollinIzDa;Website+:+https://collinizda.de/" /></a>
 
+> **Warning**
+> This user is for educational purposes only.
+
 <div>
 <details>
-  <summary>🧑 About Me</summary>
+  <summary>🧑 About Me (drop down)</summary>
 
 - 🔭 I’m currently working on **https://collinizda.de**
 
