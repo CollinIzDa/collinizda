@@ -1,5 +1,4 @@
-<a href="https://collinizda.de"><img src="https://i.imgur.com/I2uYHdr.png" width="100%" height="auto"/></a>
-<p align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=250&section=header&text=CollinIzDa&fontSize=90&animation=fadeIn&fontAlignY=38&)
   
 </p>
 
