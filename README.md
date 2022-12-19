@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=250&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header)
 
 <br>
   
@@ -38,4 +38,4 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
   
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=250&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=footer)
