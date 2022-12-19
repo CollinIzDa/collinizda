@@ -21,7 +21,7 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 </details>
 
 <h3 align="center">Languages</h3>
-<div align="center" style="margin-top: 10px">
+<div align="center" target="_blank" style="margin-top: 10px">
    <a href="https://collinizda.de" target="_blank"><img src="https://skillicons.dev/icons?i=python,html,javascript,css&theme=dark" /></a>
 </div>
 
