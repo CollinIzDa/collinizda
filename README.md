@@ -10,6 +10,9 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 > This user is for educational purposes only.
 
 <h3 align="center">About Me</h3>
+<p align=center>
+  <a href="https://discord.com/users/627165124180049969"><img src="https://lanyard-profile-readme.vercel.app/api/627165124180049969" width=45%></a>
+</p>
 <div>
 <details>
   <summary>🧑 About Me (drop down)</summary>
