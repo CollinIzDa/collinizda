@@ -17,7 +17,7 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 <details>
   <summary>🧑 About Me (drop down)</summary>
 
-- 🔭 I’m currently working on **https://collinizda.de**
+- 🔭 I’m currently working on **https://collinizda.com**
 
 - 🌱 I’m currently learning **everything** 🤓
 
@@ -30,7 +30,7 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 
 <h3 align="center">Tools I use</h3>
 <div align="center">
-    <a href="https://collinizda.de" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,git&theme=dark" /></a>
+    <a href="https://collinizda.de" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,git,raspberrypi,linux,idea,github,discord&theme=dark" /></a>
 </div>
 
 <div align="center">
